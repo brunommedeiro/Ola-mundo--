@@ -1,2 +1,3 @@
-# Ola mundo! 
- Repositório teste 
+# Olá, mundo! 
+ Repositório de curso Git 
+
